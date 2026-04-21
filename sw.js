@@ -1,7 +1,7 @@
 const CACHE = 'sudoku-v1';
 const ASSETS = [
-  '/sudoku/index.html',
-  '/sudoku/manifest.json'
+  '/Sudoku/index.html',
+  '/Sudoku/manifest.json'
 ];
 
 self.addEventListener('install', e => {
